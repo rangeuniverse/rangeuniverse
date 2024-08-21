@@ -1,5 +1,5 @@
 
-![ezgif com-gif-maker (6)](https://media.licdn.com/dms/image/v2/D4D3DAQGNjhv4Se2CxA/image-scale_191_1128/image-scale_191_1128/0/1716015755357/rangeuniverse_cover?e=1724832000&v=beta&t=msH7vebuOCENFEl562MzPY4JC4OPw0CIg3foxdBKiiU)
+![ezgif com-gif-maker (6)](https://scontent.flos1-2.fna.fbcdn.net/v/t39.30808-6/444747571_122153557364042035_986595845541277296_n.png?stp=dst-png_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGWlicXGoBSf_WhDuS5HggKLVrfZwLzj2YtWt9nAvOPZtZOA5DlN6cxhbzJuNOiAVdwonQiqqI-ANoyfPzyHKaD&_nc_ohc=thxx-C-yPSIQ7kNvgHdAhR0&_nc_zt=23&_nc_ht=scontent.flos1-2.fna&oh=00_AYCnqZzx1jtE4oskO1ZOe8j8XRiRga-PW6ikZtqTpcGNKg&oe=66CB7638)
 
 
 
