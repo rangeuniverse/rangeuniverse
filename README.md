@@ -30,3 +30,6 @@ We offer competitive pricing while focusing on building scalable and dependable 
 🔗 [Website](https://www.rangeuniverse.org)
 
 🔗 [Linkedin](https://www.linkedin.com/company/rangeuniverse)
+
+# Favorite Quote 📖
+> _Technology is best when it brings people together._
