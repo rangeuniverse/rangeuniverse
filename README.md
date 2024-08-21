@@ -27,4 +27,6 @@ We offer competitive pricing while focusing on building scalable and dependable 
 - [Others](https://rangeuniverse.org)
 
 # Get in Touch
-🔗 [Website](https://docs.google.com/forms/d/e/1FAIpQLSdM_B8tGdZ43KCWnIVHP34tcWraCbzQqnmjniP9yDu4yUvLNg/viewform)
+🔗 [Website](https://www.rangeuniverse.org)
+
+🔗 [Linkedin](https://www.linkedin.com/company/rangeuniverse)
