@@ -6,7 +6,7 @@
 
 
 # About Us
-Range Universe is a platform that enables people to excel in tech, whether through learning digital skills or building digital products that make our lives easier and better.
+Range Universe is a platform that enables people to excel in tech by learning digital skills or building digital products that improve our lives.
 
 # Our Mission
 To provide access to valuable work experience and professional skill building through hands on projects with real world experiences. The courses and services we offer, along with expert guidance, empower people to solve challenges and succeed in their tech journey. 
