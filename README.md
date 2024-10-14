@@ -4,7 +4,6 @@
 
 
 
-
 # About Us
 Range Universe is a platform that enables people to excel in tech by learning digital skills or building digital products that improve our lives.
 
@@ -14,7 +13,7 @@ To provide access to valuable work experience and professional skill building th
 # Our Vision
 To consistently lead technology innovation and provide technology software services and solutions to people with exceptional quality, fast delivery, and affordable cost. 
 
-# Available For
+# Courses We Teach
 - Software Development
 - Web Development
 - Mobile App Development
@@ -23,7 +22,18 @@ To consistently lead technology innovation and provide technology software servi
 - Content Creation
 - Video Editing
 - Cybersecurity
-- [Others](https://rangeuniverse.org)
+- [Others](https://www.rangeuniverse.org/learning/courses)
+- 
+# Services We Provide
+- Software Development
+- Web Development
+- Mobile App Development
+- Blockchain Development
+- Product Design
+- Content Creation
+- Video Editing
+- Cybersecurity
+- [Others](https://www.rangeuniverse.org/building/services)
 
 # Get in Touch
 🔗 [Website](https://www.rangeuniverse.org)
