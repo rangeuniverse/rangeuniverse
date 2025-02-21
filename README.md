@@ -39,5 +39,5 @@ To consistently lead technology innovation and provide technology software servi
 
 🔗 [Linkedin](https://www.linkedin.com/company/rangeuniverse)
 
-# Favorite Quote 📖
+# Our Quote
 > _Technology is best when it brings people together._
