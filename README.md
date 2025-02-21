@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/746501fc-178a-4d7e-bc3e-8ed1a93d4340)
 ![ezgif com-gif-maker (6)](https://pbs.twimg.com/profile_banners/1701591225089069056/1735465618/1500x500)
 
 
