@@ -4,13 +4,13 @@
 
 
 # About Us
-Range Universe is a platform that enables people to excel in tech by learning digital skills or building digital products that improve our lives.
+Range Universe is an AI platform that empowers people to excel in tech by solving their problems, addressing real pain points, and helping them achieve their dreams in the tech industry.
 
 # Our Mission
-To provide access to valuable work experience and professional skill building through hands on projects with real world experiences. The courses and services we offer, along with expert guidance, empower people to solve challenges and succeed in their tech journey. 
+Our mission is to help people break into tech by solving real problems, gaining hands-on experience, and building the skills that truly matter. Through our products, programs, and expert support, we give people the tools they need to overcome challenges, grow confidently, and achieve their biggest goals in the tech world.
 
 # Our Vision
-To consistently lead technology innovation and provide technology software services and solutions to people with exceptional quality, fast delivery, and affordable cost. 
+Our vision is to lead the future of technology by creating innovative solutions and delivering high-quality software services that are fast, affordable, and truly make a difference in people's lives.
 
 # Courses We Teach
 - Software Development
